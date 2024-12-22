@@ -12,6 +12,7 @@ from victron_ble.devices.battery_sense import BatterySenseData
 from victron_ble.devices.dc_energy_meter import DcEnergyMeterData
 from victron_ble.devices.dcdc_converter import DcDcConverterData
 from victron_ble.devices.solar_charger import SolarChargerData
+from victron_ble.devices.smart_charger import SmartChargerData
 
 _LOGGER = logging.getLogger(__name__)
 
